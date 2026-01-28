@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Rust",
+    "content": "Rust is fast and safe"
+  },
+  {
+    "title": "Error handling",
+    "content": "Use Result and thiserror"
+  }
+]
