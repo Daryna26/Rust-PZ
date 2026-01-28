@@ -1,0 +1,10 @@
+[package]
+name = "snippets_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+thiserror = "1.0"
+
+[dev-dependencies]
+proptest = "1.4"
